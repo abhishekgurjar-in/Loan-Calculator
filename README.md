@@ -19,7 +19,6 @@ The **Loan Calculator** is a web-based tool that calculates the monthly payment 
 - **CSS**: Styles the calculator to ensure it is visually appealing and user-friendly.
 - **JavaScript**: Handles the logic for calculating the loan payment and updating the display based on user inputs.
 
-
 ## Installation
 
 To get started with the project, follow these steps:
