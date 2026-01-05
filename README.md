@@ -25,7 +25,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/abhishekboadgurjar/Loan-Calculator.git
+    git clone https://github.com/abhishekgurjarin/Loan-Calculator.git
     ```
 
 2. **Open the project directory**:
@@ -46,7 +46,7 @@ To get started with the project, follow these steps:
 
 ## Live Demo
 
-You can check out the live demo of the Loan Calculator project [here](https://abhishekboadgurjar.github.io/Loan-Calculator/).
+You can check out the live demo of the Loan Calculator project [here](https://abhishekgurjarin.github.io/Loan-Calculator/).
 ## Screenshots
 ![Screenshot 2024-08-26 234024](https://github.com/user-attachments/assets/970577b0-ebd6-4282-a137-65a3909ed6e7)
 
@@ -61,5 +61,5 @@ This project was developed as part of my ongoing efforts to enhance my JavaScrip
 ## Author
 
 - **Abhishek Gurjar**
-  - [GitHub Profile](https://github.com/abhishekboadgurjar)
+  - [GitHub Profile](https://github.com/abhishekgurjarin)
 
